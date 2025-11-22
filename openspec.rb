@@ -4,9 +4,9 @@ require "language/node"
 class Openspec < Formula
   desc "OpenSpec CLI - AI-powered API specification generator"
   homepage "https://github.com/fission-ai/openspec"
-  url "https://registry.npmjs.org/@fission-ai/openspec/-/openspec-0.15.0.tgz"
-  sha256 "d60f4dec8070cd892c4a934b146578a1daed53604bf7886af96d96a3f67008dd"
-  version "0.15.0"
+  url "https://registry.npmjs.org/@fission-ai/openspec/-/openspec-0.16.0.tgz"
+  sha256 "d58717a3cb0d59a9ab09095ddf73c4fddc99affbf3d1d6515a9f1d9038e7cd60"
+  version "0.16.0"
   license "MIT"
 
   depends_on "node"
